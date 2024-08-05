@@ -1,7 +1,7 @@
 # Nortech-Consultorias
 Somos una consultoría de software dedicada a la creación de páginas web y aplicaciones móviles de manera eficaz.
 
-Lider
+Líder
 ![image](https://github.com/user-attachments/assets/7cb4d2d6-05d4-4b08-b045-588c06b66782)
 Sub-Lider
 ![image](https://github.com/user-attachments/assets/1d01be75-e1ff-4261-bcd8-e148ebee4af7)
