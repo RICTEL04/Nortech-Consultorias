@@ -4,7 +4,7 @@ Somos una consultoría de software dedicada a la creación de páginas web y apl
 Lider
 ![image](https://github.com/user-attachments/assets/7cb4d2d6-05d4-4b08-b045-588c06b66782)
 Sub-Lider
-![image](https://github.com/user-attachments/assets/8f0426a4-72cd-4d31-ae52-f01618a2de1c)
+![image](https://github.com/user-attachments/assets/1d01be75-e1ff-4261-bcd8-e148ebee4af7)
 
 ![image](https://github.com/user-attachments/assets/6565dfb1-9e55-4f8f-bee1-885aa0c096e7)
 
